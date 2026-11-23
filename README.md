@@ -6,8 +6,6 @@
 
 I enjoy building scalable web applications, mobile apps, and 2D pixel-art games with custom GLSL shaders under **mie ayam studio**.
 
-Currently, I'm developing **YUDA** (a React Native & Expo mobile app) alongside 2D game projects in **Godot Engine 4.3**, while sharpening my skills in modern web architecture and backend systems.
-
 My goal is simple: write clean code, craft responsive user experiences, and build software that leaves an impact.
 
 <br clear="right"/>
@@ -17,15 +15,15 @@ My goal is simple: write clean code, craft responsive user experiences, and buil
 <h3 align="center">🤝 Connect</h3>
 
 <p align="center">
-  <a href="https://github.com/USERNAME_ANDA" target="_blank">
+  <a href="https://github.com/ImGathan" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/gathan-fairuz-izzuddin-894aaa405/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="42" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:EMAIL_ANDA@gmail.com">
+  <a href="mailto:gathanfairuz23@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="42" />
   </a>
 </p>
